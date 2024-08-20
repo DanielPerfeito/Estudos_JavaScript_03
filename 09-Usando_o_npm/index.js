@@ -1,3 +1,4 @@
-const lodash = require('lodash')
+const lodash = require("lodash");
 
-console.log(lodash.toLower('DANIEL'))
+console.log(lodash.toUpper("Daniel Perfeito"));
+
